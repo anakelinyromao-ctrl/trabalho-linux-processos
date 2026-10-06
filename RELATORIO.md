@@ -4,7 +4,7 @@
 **Integrante:** Ana Keliny Romão de Souza  
 **Linguagem:** Python 3
 
-**Link do GitHub:** COLE_AQUI_O_LINK_DO_GITHUB
+**Link do GitHub:** https://github.com/anakelinyromao-ctrl/trabalho-linux-processos
 
 ## 1. Objetivo
 
