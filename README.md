@@ -64,6 +64,6 @@ Os cálculos manuais apresentados no relatório foram comparados com a saída do
 
 Cole aqui o link do repositório GitHub antes de entregar:
 
-`COLE_AQUI_O_LINK_DO_GITHUB`
+    https://github.com/anakelinyromao-ctrl/trabalho-linux-processos
 
 > Observação: o trabalho foi desenvolvido com auxílio de IA, conforme permitido no enunciado. O código e os resultados foram conferidos.
